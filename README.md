@@ -1,4 +1,9 @@
-games-brittania-2013
-====================
+Games Brittania 2013 - Pimoroni Workshop
+========================================
 
-Pimoroni workshop materials for Games Brittania 2013. Interfacing a SNES controller via the Raspberry Pi GPIO.
+Interfacing a SNES controller via the Raspberry Pi GPIO
+-------------------------------------------------------
+
+This repository contains the Pimoroni workshop materials for their Games Brittania 2013 workshop "Interfacing a SNES controller via the Raspberry Pi GPIO".
+
+- 1.py: Reads the SNES controller button state from the GPIO and outputs a bitmask
