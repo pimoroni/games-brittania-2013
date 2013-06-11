@@ -5,7 +5,7 @@ This repository contains the Pimoroni workshop materials for their Games Brittan
 
 You may want to install required packages by running the following command:
 
-    sudo apt-get install sysvbanner python-pip libudev-dev
+    sudo apt-get install python-pip libudev-dev
     sudo pip install python-uinput
 
 - 1.py: Reads the SNES controller button state from the GPIO and outputs a bitmask
