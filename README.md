@@ -1,8 +1,5 @@
-Games Brittania 2013 - Pimoroni Workshop
-========================================
-
 Interfacing a SNES controller via the Raspberry Pi GPIO
--------------------------------------------------------
+=======================================================
 
 This repository contains the Pimoroni workshop materials for their Games Brittania 2013 workshop "Interfacing a SNES controller via the Raspberry Pi GPIO".
 
