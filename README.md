@@ -1,6 +1,8 @@
 Interfacing a SNES controller via the Raspberry Pi GPIO
 =======================================================
 
+Note: This repository is out of date and may not work how you expect! If you're interested in using USB devices to control your Python code, you should read: https://learn.pimoroni.com/tutorial/robots/controlling-your-robot-wireless-keyboard
+
 This repository contains the Pimoroni workshop materials for their Games Brittania 2013 workshop "Interfacing a SNES controller via the Raspberry Pi GPIO".
 
 You may want to install required packages by running the following command:
